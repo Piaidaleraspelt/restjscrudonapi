@@ -1,0 +1,29 @@
+{
+  "name": "restjscrudonapi",
+  "version": "1.0.0",
+  "description": "A simple RESTful API for performing CRUD operations on JSON files using jscrudon module.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Piaidaleraspelt/restjscrudonapi.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "json",
+    "crud",
+    "file",
+    "node",
+    "node.js"
+  ],
+  "author": "Piaidaleraspelt",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "body-parser": "^1.19.0",
+    "jscrudon": "^1.0.0"
+  }
+}
